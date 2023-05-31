@@ -1,2 +1,2 @@
 TODO: Reflect on what you learned this week and what is still unclear.
-I managed to get the print to run and work fine, however, I wasn't able to run the tests themselves, also, some of my files are not saving, I don't not what the problem with that is.
+I managed to get the print to run and work fine. I wasn't able to run the tests themselves, also, some of my files are not saving, I don't know what the problem is with that and it's pretty frustrating.
