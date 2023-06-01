@@ -1,7 +1,7 @@
 [
   {
     "of_total": 11,
-    "mark": 8,
+    "mark": 10,
     "results": [
       {
         "value": 1,
@@ -36,11 +36,11 @@
         "name": "You've forked the me repo"
       },
       {
-        "value": 0,
+        "value": 1,
         "name": "You've pushed your work to GitHub: requestsWorking.txt"
       },
       {
-        "value": 0,
+        "value": 1,
         "name": "You've pushed your work to GitHub: checkID.json"
       },
       {
