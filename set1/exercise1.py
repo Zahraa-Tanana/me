@@ -8,6 +8,6 @@ https://design-computing.github.io/md/week1
 
 """
 # 👇👇 Write your code here 👇👇
-print("Hello world!")
+print("Hello World!")
 
 # 👆👆 Write your code here 👆👆
