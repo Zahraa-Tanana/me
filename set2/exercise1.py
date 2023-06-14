@@ -20,7 +20,7 @@ print("hello! Let's get started")  # it printed "hello! Let's get started"
 some_words = ["what", "does", "this", "line", "do", "?"]
 # I think this will print a word from the some_words list by using the print function
 for word in some_words:
-    print(word) # it printed what foes this line do?
+    print(word) # it printed what does this line do?
 # I think this line will print "does" from some_words
 for x in some_words:
     print(x) # it what does this line do?
