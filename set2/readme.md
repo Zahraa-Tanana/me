@@ -1,1 +1,2 @@
 TODO: Reflect on what you learned this week and what is still unclear.
+This was actually a pretty fun but frustrating set of exercises, For exercise 2, tests ran M C  H a mm e r twice, I enjoyed doing these exercises. Right now, I have not yet done exercise three, by looking at it I know that it's going to frustrate me to no end.
