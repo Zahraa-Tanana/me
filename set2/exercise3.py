@@ -1,6 +1,6 @@
 # -*- coding: UTF-8 -*-
 """Modify each function until the tests pass."""
-
+from helper import little_printer, minitest
 
 import keyword
 
@@ -253,102 +253,20 @@ def loops_7():
     lots of diagrams!
     """
     
-    star_list = []
-    for i in range(9):
-        star_list.append("*")
-    pyramid = []
-    for i in range(9):
-        pyramid.append(star_list)
-    print (pyramid[0][0])
-    
-    star_list = []
-    for i in range(9):
-        star_list.append("*")
-    pyramid = []
+    the_wedge= []
+
     for i in range(5):
-        pyramid.append(star_list)
-    print (pyramid[0][0])
-
-    star_list = []
-    for i in range(9):
-        star_list.append("*")
-    pyramid = []
-    for i in range(5):
-        pyramid.append(star_list)
-    print (pyramid[0][0])
-
-    star_list = []
-    for i in range(9):
-        star_list.append("*")
-    pyramid = []
-    for i in range(5):
-        pyramid.append(star_list)
-    print (pyramid[0][0])
-
-    star_list = []
-    for i in range(9):
-        star_list.append("*")
-    pyramid = []
-    for i in range(5):
-        pyramid.append(star_list)
-    print (pyramid[0][0])
-
-    star_list = []
-    for i in range(9):
-        star_list.append("*")
-    pyramid = []
-    for i in range(5):
-        pyramid.append(star_list)
-    print (pyramid[0][0])
-
-    star_list = []
-    for i in range(9):
-        star_list.append("*")
-    pyramid = []
-    for i in range(5):
-        pyramid.append(star_list)
-    print (pyramid[0][0])
-
-    star_list = []
-    for i in range(9):
-        star_list.append("*")
-    pyramid = []
-    for i in range(5):
-        pyramid.append(star_list)
-    print (pyramid[0][0])
-
-    star_list = []
-    for i in range(9):
-        star_list.append("*")
-    pyramid = []
-    for i in range(5):
-        pyramid.append(star_list)
-    print (pyramid[0][0])
-
-    # new_list = star_list
-
-    # for i in range(0, 4):
-    #     new_list[i] = ' '
-    #     negative_i = 8-(int(i))
-    #     new_list[negative_i] = ' '
-    #     pyramid.insert(0,new_list)
-    #     print(pyramid)
-
-    return pyramid
+        row = []
+        for j in range(9):
+            if j >= 4-i and j <=4+i:
+                row.append("*")
+            else:
+                row.append(" ")
+        the_wedge.append(row)
+    return the_wedge
 
 
-def little_printer(some_kind_of_list, exercise_name):
-    """Help to see what's going on.
 
-    This is a helper function that prints your
-    results to check that they are tidy.
-    Note: You don't have to do anything with it.
-    """
-    print("\n🔎 " + exercise_name)
-    if some_kind_of_list is not None:
-        print(some_kind_of_list)
-    else:
-        print("\tMaybe you haven't got to this one yet?")
 
 
 if __name__ == "__main__":
