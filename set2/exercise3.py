@@ -16,7 +16,7 @@ def is_odd(a_number):
 
     So if a_number modulo two is zero, then it's even.
     """
-    return None
+    return (a_number %2) !=0
 
 
 def fix_it(moves=True, should_move=True):
@@ -79,7 +79,10 @@ def loops_1c(number_of_items=5, symbol="#"):
     Remember that you're being passed arguments here. Don't hard code the number
     or the symbol, let it be whatever it wants to be.
     """
-    return None
+    list_of_items = []
+    for i in range(number_of_items):
+        list_of_items.append(symbol)
+    return (list_of_items)
 
 
 def loops_2():
@@ -226,7 +229,7 @@ def loops_6():
     for i in range(10):
         row = []
         for j in range(i + 1):
-            row.append(j)
+            row.append(str(j))
         the_wedge.append(row)
     return the_wedge
 
