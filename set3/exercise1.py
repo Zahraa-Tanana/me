@@ -5,30 +5,19 @@ Modify each function until the tests pass.
 """
 
 
-def loop_ranger(start, stop=None, step=1):
-    """Return a list of numbers between start and stop in steps of step.
-
-    Using a while loop make a list of numbers that goes from the start number up
-    to, but not including, the stop number, in increments of step. E.g.:
-        start: 3
-        stop: 10
-        step: 2
-        will return: [3, 5, 7, 9]
-    Look up for how range() works in the python docs. You could  answer this
-    with just the range function, but we'd like you to do it the long way.
-    """
-    return None
+def loop_ranger(start, stop, step=1):
+    my_range = []
+    for i in range(start, stop, step):
+        my_range.append(i)
+    return my_range
 
 
-def two_step_ranger(start, stop):
-    """Make a range that steps by 2.
+def two_step_ranger(start, stop, step=2):
+    my_range = []
+    for i in range(start, stop, step):
+        my_range.append(i)
+    return my_range
 
-    Sometimes you want to hide complexity.
-    Make a range function that always has a step size of 2
-
-    You can either reuse loop_ranger, or the range function that in the standard library
-    """
-    return None
 
 
 def stubborn_asker(low, high):
