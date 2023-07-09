@@ -5,18 +5,20 @@ Modify each function until the tests pass.
 """
 
 
-def loop_ranger(start, stop, step=1):
+def loop_ranger(start, stop=None, step=1):
     my_range = []
     for i in range(start, stop, step):
         my_range.append(i)
+
     return my_range
 
 
-def two_step_ranger(start, stop, step=2):
-    my_range = []
-    for i in range(start, stop, step):
-        my_range.append(i)
-    return my_range
+def two_step_ranger(start, stop):
+    two_step = []
+    for i in range(start, stop, 2):
+        two_step.append(i)
+
+    return two_step
 
 
 
@@ -28,7 +30,14 @@ def stubborn_asker(low, high):
 
     Look up the docs for a function called "input"
     """
-    return None
+    while True:
+        try:
+            number = int(input("Enter a number between {} and {}: " .format(low, high)))
+            if low < number < high:
+                return number
+        except Exception:
+            print("please try again")
+
 
 
 def not_number_rejector(message):
@@ -38,7 +47,14 @@ def not_number_rejector(message):
     (e.g. "cow", "six", "8!") then throw it out and ask for an actual number.
     When you do get a number, return it.
     """
-    return None
+    while True:
+        number = input(message)
+        try:
+            number = input(number)
+            return number
+        except Exception:
+            print("That's not valid, please try again")
+
 
 
 def super_asker(low, high):
@@ -47,7 +63,18 @@ def super_asker(low, high):
     Combine what you learnt from stubborn_asker and not_number_rejector
     to make a function that does it all!
     """
-    return None
+    while True:
+        try:
+            number = int(input("Enter a number between {} and {}: " .format(low, high)))
+            if low < number < high:
+                return number
+            else:
+                print(
+                    "That's not a number within the range, please try again"
+                )
+        except Exception:
+            print("That's not valid, please try again")
+
 
 
 if __name__ == "__main__":
