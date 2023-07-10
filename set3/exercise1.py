@@ -5,9 +5,9 @@ Modify each function until the tests pass.
 """
 
 
-def loop_ranger(start, stop=None, step=1):
+def loop_ranger(start, stop, step=1):
     my_range = []
-    for i in range(start, stop, step): # type: ignore
+    for i in range(start, stop, step): 
         my_range.append(i)
 
     return my_range
