@@ -129,7 +129,7 @@ def set_it_on_fire(input_string="very naughty boy") -> str:
     TIP: make sure that you have a 🔥 on both ends of the string.
     """
 
-    return None
+    return "none"
 
 
 def pet_filter(letter="a") -> List:
@@ -233,7 +233,7 @@ def fast_filler(number_of_words=200) -> str:
 
     fname = "dict_cache.json"
 
-    return None
+    return "none"
 
 
 if __name__ == "__main__":
