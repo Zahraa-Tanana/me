@@ -1,0 +1,14 @@
+
+def make_filler_text_dictionary() -> Dict:
+    url = "https://us-central1-waldenpondpress.cloudfunctions.net/give_me_a_word?wordlength="
+    wd = {}
+    for length in range(3, 8):
+        words = []
+        for _ in range(4):
+            r = requests.get(url + str(length))
+            if r.status_code == 200:
+                word = r.text.strip()
+                words.append(word)
+    wd[length] = words
+
+return wd
