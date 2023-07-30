@@ -4,7 +4,7 @@
 import math
 
 
-def binary_search(low, high, actual_number):
+def binary_search(low, high, target):
     """Do a binary search.
 
     This is going to be your first 'algorithm' in the usual sense of the word!
@@ -22,11 +22,20 @@ def binary_search(low, high, actual_number):
     things much easier.
     """
     tries = 0
-    guess = 0
 
-    # Write your code in here
+    while low <= high:
+        mid = low + (high - low) // 2
+        guess = mid
+        tries += 1 
+        print(f"Guess {tries}: {guess}")
+        if guess == target:
+            return {"guess": guess, "tries": tries}
+        elif guess < target:
+            low = mid + 1
+        else:
+            high = mid - 1
 
-    return {"guess": guess, "tries": tries}
+    return {"guess": None, "tries": tries}
 
 
 if __name__ == "__main__":
