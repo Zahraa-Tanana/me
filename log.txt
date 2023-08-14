@@ -1,0 +1,526 @@
+commit ba07589739d1de23871d9c8c000fd707e2f6b978
+Author: Zahraa-Tanana <zahraatanana3@gmail.com>
+Date:   Sun Jul 30 20:51:59 2023 +1000
+
+    update to set 3
+
+commit 6c1997e4700b9443ba2c04a06813d638b8c6d3a2
+Author: Zahraa-Tanana <zahraatanana3@gmail.com>
+Date:   Sun Jul 30 20:24:41 2023 +1000
+
+    lab book for set 3
+
+commit fa97dc2145744d3760d756cc9b20acfc53f1ab97
+Author: Zahraa-Tanana <zahraatanana3@gmail.com>
+Date:   Sun Jul 30 20:22:07 2023 +1000
+
+    set exercise 3 update
+
+commit ea35780e09f16c6441d93006c02f419e9e2403f8
+Author: Zahraa-Tanana <zahraatanana3@gmail.com>
+Date:   Mon Jul 24 16:40:21 2023 +1000
+
+    week 9 quiz finished
+
+commit b19329c3de561a08ef2bf6d376c93f8abbb454a0
+Author: Zahraa-Tanana <zahraatanana3@gmail.com>
+Date:   Mon Jul 24 14:16:47 2023 +1000
+
+    commit
+
+commit 4c5bfa51f73539ab7e775bca436d5f744f73830f
+Author: Zahraa-Tanana <zahraatanana3@gmail.com>
+Date:   Mon Jul 24 14:15:06 2023 +1000
+
+    quiz w9
+
+commit c0f0d6967ac2220f726771b53f061d2483c332df
+Author: Zahraa-Tanana <zahraatanana3@gmail.com>
+Date:   Mon Jul 10 15:06:30 2023 +1000
+
+    first commit
+
+commit 1b15da95e0f6534eea4847c610cd41bd8903cff6
+Author: Zahraa-Tanana <zahraatanana3@gmail.com>
+Date:   Mon Jul 10 13:26:18 2023 +1000
+
+    update for set 3 exercse 1
+
+commit bd9ce15f32193fe910dd67cfb6d6d8f2418cc72b
+Author: Zahraa-Tanana <zahraatanana3@gmail.com>
+Date:   Sun Jul 9 18:33:53 2023 +1000
+
+    random update
+
+commit a56843e6d9c9b618d41904f208e73f655135c0a8
+Author: Zahraa-Tanana <zahraatanana3@gmail.com>
+Date:   Sun Jul 9 18:27:02 2023 +1000
+
+    exercise 1 set 3 update
+
+commit 8d528d02de69153cd4cd19102fbdc32b5adee861
+Author: Zahraa-Tanana <zahraatanana3@gmail.com>
+Date:   Sun Jul 9 17:36:46 2023 +1000
+
+    just random changes
+
+commit 9a773c380d5fb90366e0df0e8f657eb4fb1a40aa
+Author: Zahraa-Tanana <zahraatanana3@gmail.com>
+Date:   Sun Jul 9 17:31:53 2023 +1000
+
+    Set 3 exercise 1
+
+commit 358d3eb22d17fde8944be8d8ef33d64334f5d7bd
+Author: Zahraa-Tanana <zahraatanana3@gmail.com>
+Date:   Tue Jun 27 14:45:05 2023 +1000
+
+    finished set 2
+
+commit 282fbd25a7f7c19c630b6305c1485882424d7259
+Author: Zahraa-Tanana <zahraatanana3@gmail.com>
+Date:   Mon Jun 26 16:14:30 2023 +1000
+
+    set 2 exercise 3 update
+
+commit 4b1d782c5eaa8e80c0d8ab437f568409e3231b43
+Author: Zahraa-Tanana <zahraatanana3@gmail.com>
+Date:   Sun Jun 25 19:58:01 2023 +1000
+
+    week 3 exercise 3 progess 25/6/23
+
+commit cec258b355dfd27ec135238e5fe940775a4954de
+Author: Zahraa-Tanana <zahraatanana3@gmail.com>
+Date:   Thu Jun 15 09:23:18 2023 +1000
+
+    Editing Week 2 Exercise 1
+
+commit 3dafce50b857dc9c0f04a58b2eb53d3f5d21be56
+Author: Zahraa-Tanana <zahraatanana3@gmail.com>
+Date:   Thu Jun 15 09:22:16 2023 +1000
+
+    Just checking week 2
+
+commit efccc43649706b44b76868cf1d4157a4616e071c
+Author: Zahraa-Tanana <zahraatanana3@gmail.com>
+Date:   Thu Jun 1 21:03:30 2023 +1000
+
+    week 1
+
+commit b8c0d4dcee8d0c7eb318b0659c5610efb0661054
+Author: Zahraa-Tanana <zahraatanana3@gmail.com>
+Date:   Thu Jun 1 21:01:15 2023 +1000
+
+    week 1
+
+commit 5969b060a74806013dfe9aeeb676437a8ab640f1
+Author: Zahraa-Tanana <zahraatanana3@gmail.com>
+Date:   Thu Jun 1 21:00:53 2023 +1000
+
+    week 1
+
+commit 9eb0ad66e234ef5ddd62a8d42c9d225adefeee3f
+Author: Zahraa-Tanana <zahraatanana3@gmail.com>
+Date:   Thu Jun 1 20:58:52 2023 +1000
+
+    Week 1 tutorial
+
+commit 9d8c9e95119f823a285f934374cafacfd633f168
+Author: Zahraa-Tanana <zahraatanana3@gmail.com>
+Date:   Wed May 31 10:29:23 2023 +1000
+
+    First ever python commit
+
+commit f7c40195325d39627f8e254dbf6a8b2299155034
+Author: Zahraa-Tanana <zahraatanana3@gmail.com>
+Date:   Wed May 31 10:24:02 2023 +1000
+
+    firtst ever commit
+
+commit 44141766709a30eda0d2af2ae5a75c5a8718d3c8
+Author: Ben Doherty <ben@notionparallax.co.uk>
+Date:   Fri May 26 15:55:02 2023 +1000
+
+    remove quiz
+
+commit fead562ce660e33f091bd473f703b9874c8c015e
+Author: Ben Doherty <ben@notionparallax.co.uk>
+Date:   Fri May 26 15:54:44 2023 +1000
+
+    quick demo to play with
+
+commit 9821759a5e617c37be06ab8502f05deead4f7cc9
+Author: Ben Doherty <ben@notionparallax.co.uk>
+Date:   Fri May 26 15:52:50 2023 +1000
+
+    closes #11
+    
+    just some clarification to the messages
+
+commit 439cb93a8e233ab605d000227870a878f513cfbf
+Author: Ben Doherty <ben@notionparallax.co.uk>
+Date:   Fri May 26 15:42:27 2023 +1000
+
+    Simplify little printer
+    
+    Closes Make w2 mini tests print more simply too #9
+
+commit 0ecc5e621b5f19bb0a3b287e49a64c0ce7be8119
+Author: Ben Doherty <ben@notionparallax.co.uk>
+Date:   Fri May 26 15:27:36 2023 +1000
+
+    remove guard, not needed here
+
+commit 7f1b1c8a4be38d1ff25ee0f8ec903eaef7c21cc5
+Author: Ben Doherty <ben@notionparallax.co.uk>
+Date:   Fri May 26 15:26:13 2023 +1000
+
+    no indentation in this file any more
+
+commit 81e3fb4cb49320d58b1a3c187ca65e161ed0a42e
+Author: Ben Doherty <ben@notionparallax.co.uk>
+Date:   Wed May 24 11:47:44 2023 +1000
+
+    linter changes
+
+commit 0fbf4891e2d19d753f247d1377ab73075b93f187
+Author: Ben Doherty <ben@notionparallax.co.uk>
+Date:   Wed May 24 11:46:50 2023 +1000
+
+    clearer comments
+
+commit 2935f3fa17e2d1d54182371454f18bcc2cf455c1
+Author: Ben Doherty <ben@notionparallax.co.uk>
+Date:   Wed May 24 11:46:37 2023 +1000
+
+    reduce PII
+
+commit f51a373cb053a61a9f7f405401d6f2ba1983f8e8
+Author: Ben Doherty <ben@notionparallax.co.uk>
+Date:   Tue May 31 10:06:47 2022 +1000
+
+    clarify a lot of docstrings
+
+commit ae6f9961a593f5b45b85dc8afffa765390de8dda
+Author: Ben Doherty <ben@notionparallax.co.uk>
+Date:   Fri May 20 14:40:46 2022 +1000
+
+    use vars
+
+commit 9baffb0085871f0d24842b26a6168c0ac339ec02
+Author: Ben Doherty <ben@notionparallax.co.uk>
+Date:   Fri May 20 14:37:36 2022 +1000
+
+    remove old file
+
+commit 00b561e362dd1e124f4da4fbbe70b565a84977ef
+Author: Ben Doherty <ben@notionparallax.co.uk>
+Date:   Fri May 20 14:37:27 2022 +1000
+
+    correct the end bit
+
+commit 4f35a6b1e342a459775b3fb412b1841b1131e0c5
+Author: Ben Doherty <ben@notionparallax.co.uk>
+Date:   Fri May 20 14:22:15 2022 +1000
+
+    use f strings
+
+commit 506b18efcb11d34f6fed2a044e319be70c84fc6f
+Author: Ben Doherty <ben@notionparallax.co.uk>
+Date:   Thu May 19 13:59:02 2022 +1000
+
+    make pyramid cleareer
+
+commit dde2c330f3fea5da453c209a3e5183fe60e602f2
+Author: Ben Doherty <ben@notionparallax.co.uk>
+Date:   Thu May 19 13:58:01 2022 +1000
+
+    reorganise the capsule
+
+commit 383c7795df47edd18b7ae41f3e55ede903c3d14f
+Author: Ben Doherty <ben@notionparallax.co.uk>
+Date:   Thu May 19 13:53:39 2022 +1000
+
+    make list comp more obvious
+
+commit b0041c5d3afe489c84394aeed9c7993172784c31
+Author: Ben Doherty <ben@notionparallax.co.uk>
+Date:   Thu May 19 13:53:18 2022 +1000
+
+    add with example
+
+commit ead1b4d325f95eaf5ee099dbffd469fddedebab3
+Author: Ben Doherty <ben@notionparallax.co.uk>
+Date:   Thu May 19 13:51:16 2022 +1000
+
+    clearer docstrings
+
+commit 8515d467aacacde28490235ae04edc602876a007
+Author: Ben Doherty <ben@notionparallax.co.uk>
+Date:   Thu May 19 13:51:03 2022 +1000
+
+    remove lone ranger
+
+commit 78eebb8961931206eedbd9e252a23b143498993b
+Author: Ben Doherty <ben@notionparallax.co.uk>
+Date:   Mon May 16 11:43:05 2022 +1000
+
+    repo tidy up
+
+commit 352cfcfcb1067d2d37cb136e71b947fa900809b6
+Author: Ben Doherty <ben@notionparallax.co.uk>
+Date:   Sat May 7 12:22:36 2022 +1000
+
+    add some comments to make it clearer what to do in this file
+    
+    It was a bit mysterious before
+    Hopefully this it more valuable
+
+commit ff7eb0a89c55b90c534dafcebdbbca7c0207ce96
+Author: Ben Doherty <ben@notionparallax.co.uk>
+Date:   Wed May 4 19:26:04 2022 +1000
+
+    reset to base
+
+commit 1e32d5d9f2ea82cd854a353f32e7c0ea0bb8cead
+Author: Ben Doherty <ben@notionparallax.co.uk>
+Date:   Wed May 4 19:24:44 2022 +1000
+
+    update docs link to go somewhere useful
+
+commit 11b50827c12b9e766fce8cd1d26f9d69baa9fa16
+Author: Ben Doherty <ben@notionparallax.co.uk>
+Date:   Wed May 4 19:12:47 2022 +1000
+
+    Change map to list comp
+    
+    Now that it's py3 map returns itterator, not a list.
+    This doesn't work easily with the following lines
+
+commit 7637a67ab176461298f35fe9bf54f091446df6a7
+Author: Ben Doherty <ben@notionparallax.co.uk>
+Date:   Wed May 4 17:12:50 2022 +1000
+
+    Update contact details
+    
+    Because I needed to.
+    @constuname told me to...
+
+commit 26db73abac3116bbf137899cce4f43e15cf52107
+Author: Ben <ben@notionparallax.co.uk>
+Date:   Thu Jun 3 16:28:31 2021 +1000
+
+    ignore rope
+
+commit ee1cbcea7eb98fc5fc6882317abd100353a2ff46
+Author: Ben <ben@notionparallax.co.uk>
+Date:   Thu Jun 3 16:27:58 2021 +1000
+
+    final updates
+
+commit 6c177229dae90d38e207281bdd05b027381e7032
+Author: Ben <ben@notionparallax.co.uk>
+Date:   Sun May 30 15:49:41 2021 +1000
+
+    change week to set
+
+commit 18c8826d9b02b7e22ebedb1ea55cc53208c40eb1
+Author: Ben <ben@notionparallax.co.uk>
+Date:   Sun May 30 15:41:09 2021 +1000
+
+    rename weeks
+
+commit b8682bdd942dece3f0528c0f25a05d31d6fb3af9
+Author: Ben <ben@notionparallax.co.uk>
+Date:   Wed Jul 22 13:41:48 2020 +1000
+
+    Actually commit changes, don't be a scumbag
+
+commit e905c4391c79b852fee2397b23ad39d517b4832d
+Author: Ben <ben@notionparallax.co.uk>
+Date:   Wed Jul 22 12:21:24 2020 +1000
+
+    better doc strings
+
+commit d77757539da99a31630899463948c376c07a5482
+Author: Ben <ben@notionparallax.co.uk>
+Date:   Wed Jul 15 08:49:49 2020 +1000
+
+    add more explanitory text
+
+commit 95d2297abf4328e1594df46eace5a4292516a281
+Author: Ben <ben@notionparallax.co.uk>
+Date:   Wed Jun 10 14:42:50 2020 +1000
+
+    clearer instructions
+
+commit 5fa9ed73c098cbfb76bfa6f289d81e62d0ef97d7
+Author: Ben <ben@notionparallax.co.uk>
+Date:   Tue Jun 2 19:42:17 2020 +1000
+
+    clearer docstring
+
+commit 72ced4f9122a73109ccd6090832d07993ac12d35
+Author: Ben <ben@notionparallax.co.uk>
+Date:   Tue Jun 2 18:28:37 2020 +1000
+
+    Pull exam
+
+commit 39d5d6c6235affc87b3d729a31d3e60dd64dfbcd
+Author: Ben <ben@notionparallax.co.uk>
+Date:   Thu Jun 27 21:53:41 2019 +1000
+
+    remove base
+
+commit e00a0f6b5061379a36d4a78f933aee7b78db46fa
+Author: Ben <ben@notionparallax.co.uk>
+Date:   Thu Jun 27 21:52:59 2019 +1000
+
+    pokedex exercise
+
+commit 908b40573a10a6172b77b11bdcd1c45ada636cc2
+Author: Ben <ben@notionparallax.co.uk>
+Date:   Thu Jun 27 21:52:50 2019 +1000
+
+    extra tip about 3d printing
+
+commit 79eca502d0d3dfb18cc9136b9a5cb15087faf326
+Author: Ben <ben@notionparallax.co.uk>
+Date:   Thu Jun 6 15:29:21 2019 +1000
+
+    not needed
+
+commit 493f38b7bcd6c0d3fb497a8ad30f72eca2b81fc5
+Author: Ben <ben@notionparallax.co.uk>
+Date:   Thu Jun 6 15:27:28 2019 +1000
+
+    remove the exam, closes #4
+
+commit ddddad8c797aa99fbfb6e5410c21d58036d2b2da
+Merge: 30d5e6f 6cb3e70
+Author: Ben <ben@notionparallax.co.uk>
+Date:   Thu Jun 6 13:48:43 2019 +1000
+
+    Merge pull request #5 from BaptisteHiggs/master
+    
+     Typo fixes, clearer wording, updating links, & other miscellaneous changes
+
+commit 6cb3e70e4bed84acda6716182410ec11e83ee805
+Author: BaptisteHiggs <16fogterminator@gmail.com>
+Date:   Mon Jun 3 21:56:20 2019 +1000
+
+    Typo fixes, clearer wording, updating links, & other miscellaneous changes
+
+commit 30d5e6ffa47550731ef6b6f2600b652c8d65a9f9
+Author: Ben <ben@notionparallax.co.uk>
+Date:   Mon Jun 3 18:13:35 2019 +1000
+
+    more generic key names
+
+commit 340d283ad3e4b6706b7153a0c9200553f854b039
+Author: Ben <ben@notionparallax.co.uk>
+Date:   Mon Jun 3 18:13:15 2019 +1000
+
+    add more details to the commands
+
+commit 18395ed253e8df1460cd8167439eaaba6bfede3e
+Author: Ben <ben@notionparallax.co.uk>
+Date:   Sun Jun 2 21:59:39 2019 +1000
+
+    Linting
+
+commit b7381a08b1334449878e089fd5537e474a93a5ba
+Author: Ben <ben@notionparallax.co.uk>
+Date:   Sun Jun 2 21:58:55 2019 +1000
+
+    More generic about me
+
+commit 950c08fb0b762e384e495492fc858727affdf32a
+Author: Ben <ben@notionparallax.co.uk>
+Date:   Sun Jun 2 21:32:30 2019 +1000
+
+    use real json
+
+commit c0e4e5f2be4f9ef68a184b5fbb2d3b3ec81ffdd0
+Author: BaptisteHiggs <16fogterminator@gmail.com>
+Date:   Sun Jun 2 13:28:22 2019 +1000
+
+    week2exercise0 edits
+
+commit d5948276a33628a50692bab629e1ac42ec04014c
+Author: Ben <ben@notionparallax.co.uk>
+Date:   Fri May 31 19:39:51 2019 +1000
+
+    unavoidable linting
+
+commit a7f70964d9d794bc1d49b07f4fa3581f79d8825c
+Author: Ben <ben@notionparallax.co.uk>
+Date:   Fri May 31 19:39:37 2019 +1000
+
+    remove these imports, too confusing
+
+commit 9f872fff61c90baed70db0c35ebfd28a8a3e8c99
+Author: Ben <ben@notionparallax.co.uk>
+Date:   Fri May 31 19:39:20 2019 +1000
+
+    initial
+
+commit 28dec83292421bb93ddc86bb0bbeed7d30f118f7
+Author: Ben <ben@notionparallax.co.uk>
+Date:   Fri May 31 18:40:54 2019 +1000
+
+    redamage
+
+commit c2b9a0d9a97e5edab850c17a19a46d45e8fc4218
+Author: Ben <ben@notionparallax.co.uk>
+Date:   Fri May 31 18:35:25 2019 +1000
+
+    tidy log boks
+
+commit 01a5494c1b07a18cf3d76d6c040786998cabdf4b
+Author: Ben <ben@notionparallax.co.uk>
+Date:   Fri May 31 17:39:39 2019 +1000
+
+    tidying mainly
+
+commit 901758c94ca309c4f91ba0b6b24922968655fe60
+Author: Ben <ben@notionparallax.co.uk>
+Date:   Fri May 31 11:09:53 2019 +1000
+
+    change debug advice
+    now that there is vs code debugging
+
+commit 1f88fc7cfeae33aabd27f0cd108392040c21793e
+Author: Ben <ben@notionparallax.co.uk>
+Date:   Fri May 31 11:04:37 2019 +1000
+
+    clearer docs
+
+commit 5863ffb974dd298725687fa864aabdd215c26a46
+Author: Ben <ben@notionparallax.co.uk>
+Date:   Fri May 31 10:56:48 2019 +1000
+
+    first
+
+commit 3b00cf2cdd70b8c6c6224f16f6523cbaae072042
+Author: Ben <ben@notionparallax.co.uk>
+Date:   Fri May 31 10:54:44 2019 +1000
+
+    pass -> return
+
+commit 3c954963241985b1f1d7eb55cb13335e366a1bed
+Author: Ben <ben@notionparallax.co.uk>
+Date:   Fri May 31 10:53:41 2019 +1000
+
+    add returns
+
+commit ebffc9c3bb03fa624d7a943449feb98367bbf5b5
+Author: Ben <ben@notionparallax.co.uk>
+Date:   Thu May 30 19:00:21 2019 +1000
+
+    Image markdown
+
+commit 4bedd8d039001be4766986fc4dcb07e4e1ea144b
+Author: Ben <ben@notionparallax.co.uk>
+Date:   Thu May 30 18:59:31 2019 +1000
+
+    first
